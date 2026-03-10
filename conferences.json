@@ -435,5 +435,31 @@
     },
     "field": "artificial intelligence",
     "sponsor": "other"
+  },
+  {
+    "name": "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases",
+    "acronym": "ECML PKDD",
+    "url": "https://ecmlpkdd.org/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "A",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=ECML+PKDD&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "artificial intelligence",
+    "sponsor": "Springer"
+  },
+  {
+    "name": "European Conference on Artificial Intelligence",
+    "acronym": "ECAI",
+    "url": "https://www.eurai.org/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "A",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=ECAI&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "artificial intelligence",
+    "sponsor": "EurAI"
   }
 ]

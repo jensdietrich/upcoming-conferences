@@ -908,5 +908,43 @@
       "region": "Europe"
     },
     "dates": "July 9-11, 2025"
+  },
+  {
+    "name": "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases",
+    "acronym": "ECML PKDD",
+    "acronymx": "ECML PKDD'26",
+    "url": "https://2026.ecmlpkdd.org/",
+    "track": "research",
+    "submission-deadline": "2026-03-12",
+    "estimated": false,
+    "notification": "2026-05-27",
+    "cfp": null,
+    "venue": {
+      "city": "Naples",
+      "address": "Naples, Italy",
+      "lat": 40.8518,
+      "lon": 14.2681,
+      "region": "Europe"
+    },
+    "dates": "September 7-11, 2026"
+  },
+  {
+    "name": "European Conference on Artificial Intelligence",
+    "acronym": "ECAI",
+    "acronymx": "ECAI'26",
+    "url": "https://ijcai26.org/",
+    "track": "research",
+    "submission-deadline": "2026-01-19",
+    "estimated": false,
+    "notification": "2026-04-29",
+    "cfp": null,
+    "venue": {
+      "city": "Bremen",
+      "address": "Bremen, Germany",
+      "lat": 53.0793,
+      "lon": 8.8017,
+      "region": "Europe"
+    },
+    "dates": "August 15-21, 2026"
   }
 ]
