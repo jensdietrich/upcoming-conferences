@@ -279,5 +279,31 @@
     },
     "field": "security",
     "sponsor": "IEEE"
+  },
+  {
+    "name": "Conference on Neural Information Processing Systems",
+    "acronym": "NeurIPS",
+    "url": "https://nips.cc/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "A*",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/"
+    },
+    "field": "artificial intelligence",
+    "sponsor": "other"
+  },
+  {
+    "name": "Conference on Computer Vision and Pattern Recognition",
+    "acronym": "CVPR",
+    "url": "https://cvpr.thecvf.com/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "A*",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/"
+    },
+    "field": "computer vision",
+    "sponsor": "IEEE"
   }
 ]

@@ -547,5 +547,43 @@
       "region": "North America"
     },
     "dates": "August 11-13, 2027"
+  },
+  {
+    "name": "Thirty-ninth Conference on Neural Information Processing Systems",
+    "acronym": "NeurIPS",
+    "acronymx": "NeurIPS'26",
+    "url": "https://nips.cc/",
+    "track": "research",
+    "submission-deadline": "2026-05-20",
+    "estimated": true,
+    "notification": "2026-09-25",
+    "cfp": null,
+    "venue": {
+      "city": "Vancouver",
+      "address": "Vancouver Convention Center, Vancouver, BC, Canada",
+      "lat": 49.2888,
+      "lon": -123.1111,
+      "region": "North America"
+    },
+    "dates": "December 8-14, 2026"
+  },
+  {
+    "name": "Conference on Computer Vision and Pattern Recognition",
+    "acronym": "CVPR",
+    "acronymx": "CVPR'26",
+    "url": "https://cvpr.thecvf.com/",
+    "track": "research",
+    "submission-deadline": "2025-11-15",
+    "estimated": true,
+    "notification": "2026-02-28",
+    "cfp": null,
+    "venue": {
+      "city": "Seattle",
+      "address": "Seattle Convention Center, Seattle, WA, USA",
+      "lat": 47.6114,
+      "lon": -122.3331,
+      "region": "North America"
+    },
+    "dates": "June 14-18, 2026"
   }
 ]
