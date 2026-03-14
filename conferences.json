@@ -292,5 +292,186 @@
     },
     "field": "security",
     "sponsor": "IEEE"
+  {
+    "name": "Conference on Neural Information Processing Systems",
+    "acronym": "NeurIPS",
+    "url": "https://nips.cc/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "A*",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=NeurIPS&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "artificial intelligence",
+    "sponsor": "other"
+  },
+  {
+    "name": "Conference on Computer Vision and Pattern Recognition",
+    "acronym": "CVPR",
+    "url": "https://cvpr.thecvf.com/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "A*",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=CVPR&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "computer vision",
+    "sponsor": "IEEE"
+  },
+  {
+    "name": "International Conference on Machine Learning",
+    "acronym": "ICML",
+    "url": "https://icml.cc/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "A*",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=ICML&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "artificial intelligence",
+    "sponsor": "other"
+  },
+  {
+    "name": "International Conference on Learning Representations",
+    "acronym": "ICLR",
+    "url": "https://iclr.cc/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "A*",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=ICLR&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "artificial intelligence",
+    "sponsor": "other"
+  },
+  {
+    "name": "AAAI Conference on Artificial Intelligence",
+    "acronym": "AAAI",
+    "url": "https://aaai.org/conference/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "A*",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=AAAI&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "artificial intelligence",
+    "sponsor": "other"
+  },
+  {
+    "name": "International Joint Conference on Artificial Intelligence",
+    "acronym": "IJCAI",
+    "url": "https://www.ijcai.org/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "A*",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=IJCAI&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "artificial intelligence",
+    "sponsor": "other"
+  },
+  {
+    "name": "International Conference on Computer Vision",
+    "acronym": "ICCV",
+    "url": "https://thecvf.com/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "A*",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=ICCV&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "computer vision",
+    "sponsor": "IEEE"
+  },
+  {
+    "name": "European Conference on Computer Vision",
+    "acronym": "ECCV",
+    "url": "https://eccv.ecva.net/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "A",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=ECCV&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "computer vision",
+    "sponsor": "other"
+  },
+  {
+    "name": "Australasian Joint Conference on Artificial Intelligence",
+    "acronym": "AJCAI",
+    "url": "https://ajcai26.org/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "B",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=AJCAI&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "artificial intelligence",
+    "sponsor": "other"
+  },
+  {
+    "name": "International Conference on Image and Vision Computing New Zealand",
+    "acronym": "IVCNZ",
+    "url": "https://ivcnz2025.wgtn.ac.nz/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "B",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=IVCNZ&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "computer vision",
+    "sponsor": "other"
+  },
+  {
+    "name": "Pacific Rim International Conference on Artificial Intelligence",
+    "acronym": "PRICAI",
+    "url": "https://pricai.org/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "B",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=PRICAI&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "artificial intelligence",
+    "sponsor": "other"
+  },
+  {
+    "name": "World Conference on eXplainable Artificial Intelligence",
+    "acronym": "xAI",
+    "url": "https://xaiworldconference.com/",
+    "see-also": [],
+    "core-rank": {
+      "rank": null,
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=xAI&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "artificial intelligence",
+    "sponsor": "other"
+  },
+  {
+    "name": "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases",
+    "acronym": "ECML PKDD",
+    "url": "https://ecmlpkdd.org/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "A",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=ECML+PKDD&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "artificial intelligence",
+    "sponsor": "Springer"
+  },
+  {
+    "name": "European Conference on Artificial Intelligence",
+    "acronym": "ECAI",
+    "url": "https://www.eurai.org/",
+    "see-also": [],
+    "core-rank": {
+      "rank": "A",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=ECAI&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "artificial intelligence",
+    "sponsor": "EurAI"
   }
 ]

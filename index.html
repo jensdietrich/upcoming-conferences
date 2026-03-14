@@ -322,7 +322,7 @@
 <header>
   <div>
     <h1>Conference Deadlines</h1>
-    <p>Software Engineering &middot; Programming Languages &middot; Security</p>
+    <p>Software Engineering &middot; Programming Languages &middot; Security &middot; Artificial Intelligence &middot; Computer Vision</p>
   </div>
   <button id="theme-toggle">Dark mode</button>
 </header>
@@ -348,7 +348,7 @@
       <thead>
         <tr>
           <th>Conference</th>
-          <th>Track</th>
+          <th>Track &amp; Field</th>
           <th>Deadline</th>
           <th>Notification</th>
           <th>Dates</th>
@@ -369,6 +369,8 @@
       <label><input type="checkbox" class="filter-field" value="software engineering" checked> Software Engineering</label>
       <label><input type="checkbox" class="filter-field" value="programming languages" checked> Programming Languages</label>
       <label><input type="checkbox" class="filter-field" value="security" checked> Security</label>
+      <label><input type="checkbox" class="filter-field" value="artificial intelligence" checked> Artificial Intelligence</label>
+      <label><input type="checkbox" class="filter-field" value="computer vision" checked> Computer Vision</label>
     </div>
     <!-- CORE rank -->
     <div class="filter-group">
@@ -422,7 +424,7 @@
     <thead>
       <tr>
         <th data-col="acronymx" onclick="sortBy('acronymx')">Conference <span class="sort-icon">&#8597;</span></th>
-        <th data-col="track">Track</th>
+        <th data-col="track">Track &amp; Field</th>
         <th data-col="submission-deadline" onclick="sortBy('submission-deadline')" class="sorted">Deadline <span class="sort-icon">&#8597;</span></th>
         <th data-col="notification" onclick="sortBy('notification')">Notification <span class="sort-icon">&#8597;</span></th>
         <th data-col="city" onclick="sortBy('city')">Location <span class="sort-icon">&#8597;</span></th>
@@ -515,7 +517,7 @@
 }</pre>
       </li>
       <li style="margin-bottom:8px">
-        Valid values for <code>field</code>: <code>software engineering</code>, <code>programming languages</code>, <code>security</code>.
+        Valid values for <code>field</code>: <code>software engineering</code>, <code>programming languages</code>, <code>security</code>, <code>artificial intelligence</code>, <code>computer vision</code>.
       </li>
       <li style="margin-bottom:8px">
         Valid values for <code>core-rank.rank</code>: <code>A*</code>, <code>A</code>, <code>B</code>, <code>C</code>.
@@ -692,16 +694,29 @@ function circleIcon(color) {
   });
 }
 
-function initMap() {
+function initMap(visibleRows = null) {
+  if (map) {
+    // Check if map container still exists (it might have been cleared or removed)
+    map.remove();
+  }
+  
+  const mapContainer = document.getElementById('map');
+  mapContainer.innerHTML = '';
   map = L.map('map', { zoomControl: true }).setView([30, 10], 2);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
     maxZoom: 18
   }).addTo(map);
 
+  markers = {};
+
   // Group deadlines by venue city
   const byCity = {};
-  enriched.forEach(d => {
+  
+  // Use visibleRows if provided, otherwise use all enriched
+  const dataToMap = visibleRows || enriched;
+  
+  dataToMap.forEach(d => {
     if (!d.venue || d.venue.lat == null) return;
     // Only show conferences with future conference dates
     const confDate = parseDate((d.dates || '').split(' ').pop() + '-01') || TODAY;
@@ -759,7 +774,7 @@ function showVenueDetails(city, entries) {
           ${rankBadge(conf['core-rank']?.rank)}
         </td>`;
       }
-      html += `<td><span class="track-label">${t.track}</span></td>`;
+      html += `<td><span class="track-label">${t.track}</span><br><span style="font-size:10px; opacity:0.7">${conf.field || ''}</span></td>`;
       html += `<td><span class="deadline-date ${dlClass}">${formatDate(t['submission-deadline'], t.estimated)}</span>
                <span class="countdown">${countdown(t['submission-deadline'])}</span></td>`;
       html += `<td>${formatDate(t.notification)}</td>`;
@@ -830,6 +845,7 @@ function applyFilters() {
     return sortAsc ? av.localeCompare(bv) : bv.localeCompare(av);
   });
 
+  initMap(rows);
   renderTable(rows);
   document.getElementById('results-summary').textContent =
     `Showing ${rows.length} deadline${rows.length !== 1 ? 's' : ''}`;
@@ -860,7 +876,7 @@ function renderTable(rows) {
         ${rankUrl ? `<a href="${rankUrl}" target="_blank" rel="noopener">${rankBadge(rank)}</a>` : rankBadge(rank)}
         <div style="font-size:11px;color:var(--text-muted);margin-top:2px">${conf.sponsor || ''}</div>
       </td>
-      <td><span class="track-label">${d.track}</span></td>
+      <td><span class="track-label">${d.track}</span><br><span style="font-size:10px; color:var(--text-muted); opacity:0.8; text-transform:uppercase; letter-spacing:0.03em">${conf.field || ''}</span></td>
       <td>
         <span class="deadline-date ${dlClass}">${formatDate(d['submission-deadline'], d.estimated)}</span><br>
         <span class="countdown">${countdown(d['submission-deadline'])}</span>
