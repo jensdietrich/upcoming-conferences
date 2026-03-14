@@ -13,7 +13,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/1209/"
     },
     "field": "software engineering",
-    "sponsor": "IEEE/ACM"
+    "sponsor": "IEEE/ACM",
+    "workshop": false
   },
   {
     "name": "ACM International Conference on the Foundations of Software Engineering",
@@ -29,7 +30,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=FSE&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "software engineering",
-    "sponsor": "ACM"
+    "sponsor": "ACM",
+    "workshop": false
   },
   {
     "name": "IEEE/ACM International Conference on Automated Software Engineering",
@@ -44,7 +46,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=ASE&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "software engineering",
-    "sponsor": "IEEE/ACM"
+    "sponsor": "IEEE/ACM",
+    "workshop": false
   },
   {
     "name": "IEEE International Conference on Software Maintenance and Evolution",
@@ -57,7 +60,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=ICSME&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "software engineering",
-    "sponsor": "IEEE"
+    "sponsor": "IEEE",
+    "workshop": false
   },
   {
     "name": "IEEE International Conference on Software Analysis, Evolution and Reengineering",
@@ -70,7 +74,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=SANER&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "software engineering",
-    "sponsor": "IEEE"
+    "sponsor": "IEEE",
+    "workshop": false
   },
   {
     "name": "IEEE/ACM International Working Conference on Mining Software Repositories",
@@ -85,7 +90,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=MSR&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "software engineering",
-    "sponsor": "IEEE/ACM"
+    "sponsor": "IEEE/ACM",
+    "workshop": false
   },
   {
     "name": "Asia-Pacific Software Engineering Conference",
@@ -98,7 +104,38 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=APSEC&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "software engineering",
-    "sponsor": "IEEE"
+    "sponsor": "IEEE",
+    "workshop": false
+  },
+  {
+    "name": "ACM SIGSOFT International Symposium on Software Testing and Analysis",
+    "acronym": "ISSTA",
+    "url": "https://conf.researchr.org/series/issta",
+    "see-also": [
+      "https://dl.acm.org/conference/issta"
+    ],
+    "core-rank": {
+      "rank": "A",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=ISSTA&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "software engineering",
+    "sponsor": "ACM",
+    "workshop": false
+  },
+  {
+    "name": "IEEE International Conference on Software Testing, Verification and Validation",
+    "acronym": "ICST",
+    "url": "https://conf.researchr.org/series/icst",
+    "see-also": [],
+    "core-rank": {
+      "rank": "A",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=ICST&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "software engineering",
+    "sponsor": "IEEE",
+    "workshop": false
   },
   {
     "name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
@@ -114,7 +151,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=PLDI&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "programming languages",
-    "sponsor": "ACM"
+    "sponsor": "ACM",
+    "workshop": false
   },
   {
     "name": "ACM SIGPLAN Symposium on Principles of Programming Languages",
@@ -130,7 +168,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=POPL&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "programming languages",
-    "sponsor": "ACM"
+    "sponsor": "ACM",
+    "workshop": false
   },
   {
     "name": "ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications",
@@ -146,7 +185,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=OOPSLA&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "programming languages",
-    "sponsor": "ACM"
+    "sponsor": "ACM",
+    "workshop": false
   },
   {
     "name": "European Conference on Object-Oriented Programming",
@@ -161,7 +201,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=ECOOP&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "programming languages",
-    "sponsor": "ACM/AITO"
+    "sponsor": "ACM/AITO",
+    "workshop": false
   },
   {
     "name": "ACM SIGPLAN International Conference on Functional Programming",
@@ -177,7 +218,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=ICFP&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "programming languages",
-    "sponsor": "ACM"
+    "sponsor": "ACM",
+    "workshop": false
   },
   {
     "name": "USENIX Security Symposium",
@@ -192,7 +234,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=USENIX+Security&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "security",
-    "sponsor": "USENIX"
+    "sponsor": "USENIX",
+    "workshop": false
   },
   {
     "name": "ACM Conference on Computer and Communications Security",
@@ -207,7 +250,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=CCS&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "security",
-    "sponsor": "ACM"
+    "sponsor": "ACM",
+    "workshop": false
   },
   {
     "name": "European Symposium on Research in Computer Security",
@@ -220,7 +264,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=ESORICS&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "security",
-    "sponsor": "Springer LNCS"
+    "sponsor": "Springer LNCS",
+    "workshop": false
   },
   {
     "name": "IEEE International Conference on Trust, Security and Privacy in Computing and Communications",
@@ -233,7 +278,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=TrustCom&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "security",
-    "sponsor": "IEEE"
+    "sponsor": "IEEE",
+    "workshop": false
   },
   {
     "name": "IEEE Symposium on Security and Privacy",
@@ -248,7 +294,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=IEEE+Symposium+Security+Privacy&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "security",
-    "sponsor": "IEEE"
+    "sponsor": "IEEE",
+    "workshop": false
   },
   {
     "name": "ACM Asia Conference on Computer and Communications Security",
@@ -263,7 +310,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=ASIACCS&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "security",
-    "sponsor": "ACM"
+    "sponsor": "ACM",
+    "workshop": false
   },
   {
     "name": "IEEE European Symposium on Security and Privacy",
@@ -278,9 +326,10 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=Euro+SP&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "security",
-    "sponsor": "IEEE"
+    "sponsor": "IEEE",
+    "workshop": false
   },
-    {
+  {
     "name": "International Symposium on Research in Attacks, Intrusions and Defenses",
     "acronym": "RAID",
     "url": "https://raid2026.org/",
@@ -291,7 +340,9 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=RAID&by=all&source=CORE2023&sort=atitle&page=1"
     },
     "field": "security",
-    "sponsor": "IEEE"
+    "sponsor": "IEEE",
+    "workshop": false
+  },
   {
     "name": "Conference on Neural Information Processing Systems",
     "acronym": "NeurIPS",
@@ -303,7 +354,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=NeurIPS&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "artificial intelligence",
-    "sponsor": "other"
+    "sponsor": "other",
+    "workshop": false
   },
   {
     "name": "Conference on Computer Vision and Pattern Recognition",
@@ -316,7 +368,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=CVPR&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "computer vision",
-    "sponsor": "IEEE"
+    "sponsor": "IEEE",
+    "workshop": false
   },
   {
     "name": "International Conference on Machine Learning",
@@ -329,7 +382,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=ICML&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "artificial intelligence",
-    "sponsor": "other"
+    "sponsor": "other",
+    "workshop": false
   },
   {
     "name": "International Conference on Learning Representations",
@@ -342,7 +396,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=ICLR&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "artificial intelligence",
-    "sponsor": "other"
+    "sponsor": "other",
+    "workshop": false
   },
   {
     "name": "AAAI Conference on Artificial Intelligence",
@@ -355,7 +410,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=AAAI&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "artificial intelligence",
-    "sponsor": "other"
+    "sponsor": "other",
+    "workshop": false
   },
   {
     "name": "International Joint Conference on Artificial Intelligence",
@@ -368,7 +424,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=IJCAI&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "artificial intelligence",
-    "sponsor": "other"
+    "sponsor": "other",
+    "workshop": false
   },
   {
     "name": "International Conference on Computer Vision",
@@ -381,7 +438,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=ICCV&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "computer vision",
-    "sponsor": "IEEE"
+    "sponsor": "IEEE",
+    "workshop": false
   },
   {
     "name": "European Conference on Computer Vision",
@@ -394,7 +452,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=ECCV&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "computer vision",
-    "sponsor": "other"
+    "sponsor": "other",
+    "workshop": false
   },
   {
     "name": "Australasian Joint Conference on Artificial Intelligence",
@@ -407,7 +466,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=AJCAI&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "artificial intelligence",
-    "sponsor": "other"
+    "sponsor": "other",
+    "workshop": false
   },
   {
     "name": "International Conference on Image and Vision Computing New Zealand",
@@ -420,7 +480,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=IVCNZ&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "computer vision",
-    "sponsor": "other"
+    "sponsor": "other",
+    "workshop": false
   },
   {
     "name": "Pacific Rim International Conference on Artificial Intelligence",
@@ -433,7 +494,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=PRICAI&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "artificial intelligence",
-    "sponsor": "other"
+    "sponsor": "other",
+    "workshop": false
   },
   {
     "name": "World Conference on eXplainable Artificial Intelligence",
@@ -446,7 +508,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=xAI&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "artificial intelligence",
-    "sponsor": "other"
+    "sponsor": "other",
+    "workshop": false
   },
   {
     "name": "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases",
@@ -459,7 +522,8 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=ECML+PKDD&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "artificial intelligence",
-    "sponsor": "Springer"
+    "sponsor": "Springer",
+    "workshop": false
   },
   {
     "name": "European Conference on Artificial Intelligence",
@@ -472,6 +536,7 @@
       "url": "https://portal.core.edu.au/conf-ranks/?search=ECAI&by=all&source=CORE2023&sort=arank&page=1"
     },
     "field": "artificial intelligence",
-    "sponsor": "EurAI"
+    "sponsor": "EurAI",
+    "workshop": false
   }
 ]
