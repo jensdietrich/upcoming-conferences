@@ -538,5 +538,21 @@
     "field": "artificial intelligence",
     "sponsor": "EurAI",
     "workshop": false
+  },
+  {
+    "name": "ACM International Conference on AI-powered Software",
+    "acronym": "AIware",
+    "url": null,
+    "see-also": [
+      "https://conf.researchr.org/series/aiware"
+    ],
+    "core-rank": {
+      "rank": "unranked",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/?search=AIware&by=all&source=CORE2023&sort=arank&page=1"
+    },
+    "field": "software engineering",
+    "sponsor": "ACM",
+    "workshop": false
   }
 ]

@@ -1610,5 +1610,41 @@
       "region": "other"
     },
     "dates": "October 2027"
+  },
+  {
+    "name": "3rd ACM International Conference on AI-powered Software",
+    "acronym": "AIware",
+    "acronymx": "AIware'26",
+    "url": "https://2026.aiwareconf.org/",
+    "track": "benchmark & dataset",
+    "submission-deadline": "2026-04-02",
+    "notification": "2026-04-20",
+    "cfp": "https://2026.aiwareconf.org/track/aiware-2026-benchmark---dataset-track",
+    "venue": {
+      "city": "Montreal",
+      "address": "Montreal, Canada",
+      "lat": 45.5017,
+      "lon": -73.5673,
+      "region": "North America"
+    },
+    "dates": "July 6-7, 2026"
+  },
+  {
+    "name": "3rd ACM International Conference on AI-powered Software",
+    "acronym": "AIware",
+    "acronymx": "AIware'26",
+    "url": "https://2026.aiwareconf.org/",
+    "track": "arXiv (round 2)",
+    "submission-deadline": "2026-05-15",
+    "notification": "2026-06-01",
+    "cfp": "https://2026.aiwareconf.org/track/aiware-2026-arxiv-track",
+    "venue": {
+      "city": "Montreal",
+      "address": "Montreal, Canada",
+      "lat": 45.5017,
+      "lon": -73.5673,
+      "region": "North America"
+    },
+    "dates": "July 6-7, 2026"
   }
 ]
