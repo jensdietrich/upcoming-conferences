@@ -1,203 +1,5 @@
 [
   {
-    "name": "33rd IEEE International Conference on Software Analysis, Evolution and Reengineering",
-    "acronym": "SANER",
-    "acronymx": "SANER'26",
-    "url": "https://conf.researchr.org/home/saner-2026",
-    "track": "research",
-    "submission-deadline": "2025-10-16",
-    "notification": "2025-12-09",
-    "cfp": "https://conf.researchr.org/track/saner-2026/saner-2026-papers",
-    "venue": {
-      "city": "Limassol",
-      "address": "The St. Raphael Resort, Limassol, Cyprus",
-      "lat": 34.6841,
-      "lon": 33.0367,
-      "region": "Europe"
-    },
-    "dates": "March 17-20, 2026"
-  },
-  {
-    "name": "33rd IEEE International Conference on Software Analysis, Evolution and Reengineering",
-    "acronym": "SANER",
-    "acronymx": "SANER'26",
-    "url": "https://conf.researchr.org/home/saner-2026",
-    "track": "ERA",
-    "submission-deadline": "2025-11-17",
-    "notification": "2025-12-19",
-    "cfp": "https://conf.researchr.org/track/saner-2026/saner-2026-ERA",
-    "venue": {
-      "city": "Limassol",
-      "address": "The St. Raphael Resort, Limassol, Cyprus",
-      "lat": 34.6841,
-      "lon": 33.0367,
-      "region": "Europe"
-    },
-    "dates": "March 17-20, 2026"
-  },
-  {
-    "name": "33rd IEEE International Conference on Software Analysis, Evolution and Reengineering",
-    "acronym": "SANER",
-    "acronymx": "SANER'26",
-    "url": "https://conf.researchr.org/home/saner-2026",
-    "track": "industry",
-    "submission-deadline": "2025-11-17",
-    "notification": "2025-12-19",
-    "cfp": "https://conf.researchr.org/track/saner-2026/saner-2026-industrial-track",
-    "venue": {
-      "city": "Limassol",
-      "address": "The St. Raphael Resort, Limassol, Cyprus",
-      "lat": 34.6841,
-      "lon": 33.0367,
-      "region": "Europe"
-    },
-    "dates": "March 17-20, 2026"
-  },
-  {
-    "name": "33rd IEEE International Conference on Software Analysis, Evolution and Reengineering",
-    "acronym": "SANER",
-    "acronymx": "SANER'26",
-    "url": "https://conf.researchr.org/home/saner-2026",
-    "track": "short papers",
-    "submission-deadline": "2025-11-17",
-    "notification": "2025-12-19",
-    "cfp": "https://conf.researchr.org/track/saner-2026/saner-2026-short-papers-and-posters",
-    "venue": {
-      "city": "Limassol",
-      "address": "The St. Raphael Resort, Limassol, Cyprus",
-      "lat": 34.6841,
-      "lon": 33.0367,
-      "region": "Europe"
-    },
-    "dates": "March 17-20, 2026"
-  },
-  {
-    "name": "48th International Conference on Software Engineering",
-    "acronym": "ICSE",
-    "acronymx": "ICSE'26",
-    "url": "https://conf.researchr.org/home/icse-2026",
-    "track": "research (cycle 1)",
-    "submission-deadline": "2025-03-15",
-    "notification": "2025-06-20",
-    "cfp": "https://conf.researchr.org/track/icse-2026/icse-2026-research-track",
-    "venue": {
-      "city": "Rio de Janeiro",
-      "address": "Rio de Janeiro, Brazil",
-      "lat": -22.9068,
-      "lon": -43.1729,
-      "region": "other"
-    },
-    "dates": "April 12-18, 2026"
-  },
-  {
-    "name": "48th International Conference on Software Engineering",
-    "acronym": "ICSE",
-    "acronymx": "ICSE'26",
-    "url": "https://conf.researchr.org/home/icse-2026",
-    "track": "research (cycle 2)",
-    "submission-deadline": "2025-07-19",
-    "notification": "2025-10-31",
-    "cfp": "https://conf.researchr.org/track/icse-2026/icse-2026-research-track",
-    "venue": {
-      "city": "Rio de Janeiro",
-      "address": "Rio de Janeiro, Brazil",
-      "lat": -22.9068,
-      "lon": -43.1729,
-      "region": "other"
-    },
-    "dates": "April 12-18, 2026"
-  },
-  {
-    "name": "48th International Conference on Software Engineering",
-    "acronym": "ICSE",
-    "acronymx": "ICSE'26",
-    "url": "https://conf.researchr.org/home/icse-2026",
-    "track": "SEIP",
-    "submission-deadline": "2025-09-29",
-    "notification": "2025-12-01",
-    "cfp": "https://conf.researchr.org/track/icse-2026/icse-2026-software-engineering-in-practice",
-    "venue": {
-      "city": "Rio de Janeiro",
-      "address": "Rio de Janeiro, Brazil",
-      "lat": -22.9068,
-      "lon": -43.1729,
-      "region": "other"
-    },
-    "dates": "April 12-18, 2026"
-  },
-  {
-    "name": "48th International Conference on Software Engineering",
-    "acronym": "ICSE",
-    "acronymx": "ICSE'26",
-    "url": "https://conf.researchr.org/home/icse-2026",
-    "track": "NIER",
-    "submission-deadline": "2025-09-29",
-    "notification": "2025-12-01",
-    "cfp": "https://conf.researchr.org/track/icse-2026/icse-2026-NIER",
-    "venue": {
-      "city": "Rio de Janeiro",
-      "address": "Rio de Janeiro, Brazil",
-      "lat": -22.9068,
-      "lon": -43.1729,
-      "region": "other"
-    },
-    "dates": "April 12-18, 2026"
-  },
-  {
-    "name": "23rd IEEE/ACM International Working Conference on Mining Software Repositories",
-    "acronym": "MSR",
-    "acronymx": "MSR'26",
-    "url": "https://2026.msrconf.org/",
-    "track": "technical papers",
-    "submission-deadline": "2025-10-23",
-    "notification": "2026-01-07",
-    "cfp": "https://2026.msrconf.org/track/msr-2026-technical-papers",
-    "venue": {
-      "city": "Rio de Janeiro",
-      "address": "Rio de Janeiro, Brazil (co-located with ICSE 2026)",
-      "lat": -22.9068,
-      "lon": -43.1729,
-      "region": "other"
-    },
-    "dates": "April 13-14, 2026"
-  },
-  {
-    "name": "23rd IEEE/ACM International Working Conference on Mining Software Repositories",
-    "acronym": "MSR",
-    "acronymx": "MSR'26",
-    "url": "https://2026.msrconf.org/",
-    "track": "industry",
-    "submission-deadline": "2025-12-19",
-    "notification": "2026-01-12",
-    "cfp": "https://2026.msrconf.org/track/msr-2026-industry-track",
-    "venue": {
-      "city": "Rio de Janeiro",
-      "address": "Rio de Janeiro, Brazil (co-located with ICSE 2026)",
-      "lat": -22.9068,
-      "lon": -43.1729,
-      "region": "other"
-    },
-    "dates": "April 13-14, 2026"
-  },
-  {
-    "name": "23rd IEEE/ACM International Working Conference on Mining Software Repositories",
-    "acronym": "MSR",
-    "acronymx": "MSR'26",
-    "url": "https://2026.msrconf.org/",
-    "track": "mining challenge",
-    "submission-deadline": "2025-12-23",
-    "notification": "2026-01-19",
-    "cfp": "https://2026.msrconf.org/track/msr-2026-mining-challenge",
-    "venue": {
-      "city": "Rio de Janeiro",
-      "address": "Rio de Janeiro, Brazil (co-located with ICSE 2026)",
-      "lat": -22.9068,
-      "lon": -43.1729,
-      "region": "other"
-    },
-    "dates": "April 13-14, 2026"
-  },
-  {
     "name": "47th IEEE Symposium on Security and Privacy",
     "acronym": "S&P",
     "acronymx": "S&P'26",
@@ -232,24 +34,6 @@
       "region": "North America"
     },
     "dates": "May 18-21, 2026"
-  },
-  {
-    "name": "International Conference on Learning Representations",
-    "acronym": "ICLR",
-    "acronymx": "ICLR'26",
-    "url": "https://iclr.cc/Conferences/2026",
-    "track": "research",
-    "submission-deadline": "2025-09-24",
-    "notification": "2026-01-25",
-    "cfp": null,
-    "venue": {
-      "city": "Rio de Janeiro",
-      "address": "Rio de Janeiro, Brazil",
-      "lat": -22.9068,
-      "lon": -43.1729,
-      "region": "other"
-    },
-    "dates": "April 23-27, 2026"
   },
   {
     "name": "21st ACM ASIA Conference on Computer and Communications Security",
@@ -702,6 +486,60 @@
     "dates": "July 6-11, 2026"
   },
   {
+    "name": "3rd ACM International Conference on AI-powered Software",
+    "acronym": "AIware",
+    "acronymx": "AIware'26",
+    "url": "https://2026.aiwareconf.org/",
+    "track": "benchmark & dataset",
+    "submission-deadline": "2026-04-02",
+    "notification": "2026-04-20",
+    "cfp": "https://2026.aiwareconf.org/track/aiware-2026-benchmark---dataset-track",
+    "venue": {
+      "city": "Montreal",
+      "address": "Montreal, Canada",
+      "lat": 45.5017,
+      "lon": -73.5673,
+      "region": "North America"
+    },
+    "dates": "July 6-7, 2026"
+  },
+  {
+    "name": "3rd ACM International Conference on AI-powered Software",
+    "acronym": "AIware",
+    "acronymx": "AIware'26",
+    "url": "https://2026.aiwareconf.org/",
+    "track": "arXiv (round 2)",
+    "submission-deadline": "2026-05-15",
+    "notification": "2026-06-01",
+    "cfp": "https://2026.aiwareconf.org/track/aiware-2026-arxiv-track",
+    "venue": {
+      "city": "Montreal",
+      "address": "Montreal, Canada",
+      "lat": 45.5017,
+      "lon": -73.5673,
+      "region": "North America"
+    },
+    "dates": "July 6-7, 2026"
+  },
+  {
+    "name": "Thirty-ninth Conference on Neural Information Processing Systems",
+    "acronym": "NeurIPS",
+    "acronymx": "NeurIPS'26",
+    "url": "https://neurips.cc/Conferences/2026",
+    "track": "research",
+    "submission-deadline": "2026-05-06",
+    "notification": "2026-09-24",
+    "cfp": null,
+    "venue": {
+      "city": "Vancouver",
+      "address": "Vancouver Convention Center, Vancouver, BC, Canada",
+      "lat": 49.2888,
+      "lon": -123.1111,
+      "region": "North America"
+    },
+    "dates": "December 6-12, 2026"
+  },
+  {
     "name": "35th USENIX Security Symposium",
     "acronym": "USENIX Security",
     "acronymx": "USENIX Security'26",
@@ -995,8 +833,7 @@
     "acronymx": "ESORICS'26",
     "url": "https://sites.google.com/di.uniroma1.it/esorics2026/",
     "track": "research (cycle 2)",
-    "submission-deadline": "2026-04-30",
-    "estimated": true,
+    "submission-deadline": "2026-04-21",
     "notification": "2026-06-30",
     "cfp": "https://easychair.org/cfp/ESORICS-2026",
     "venue": {
@@ -1053,6 +890,96 @@
     "submission-deadline": "2026-04-23",
     "notification": "2026-06-21",
     "cfp": "https://conf.researchr.org/track/ase-2026/ase-2026-industry-showcase",
+    "venue": {
+      "city": "Munich",
+      "address": "Holiday Inn Munich City Centre, Munich, Germany",
+      "lat": 48.1351,
+      "lon": 11.582,
+      "region": "Europe"
+    },
+    "dates": "October 12-16, 2026"
+  },
+  {
+    "name": "41st IEEE/ACM International Conference on Automated Software Engineering",
+    "acronym": "ASE",
+    "acronymx": "ASE'26",
+    "url": "https://conf.researchr.org/home/ase-2026",
+    "track": "tools and datasets",
+    "submission-deadline": "2026-05-11",
+    "notification": "2026-06-17",
+    "cfp": "https://conf.researchr.org/track/ase-2026/ase-2026-tools-and-datasets",
+    "venue": {
+      "city": "Munich",
+      "address": "Holiday Inn Munich City Centre, Munich, Germany",
+      "lat": 48.1351,
+      "lon": 11.582,
+      "region": "Europe"
+    },
+    "dates": "October 12-16, 2026"
+  },
+  {
+    "name": "41st IEEE/ACM International Conference on Automated Software Engineering",
+    "acronym": "ASE",
+    "acronymx": "ASE'26",
+    "url": "https://conf.researchr.org/home/ase-2026",
+    "track": "NIER",
+    "submission-deadline": "2026-05-12",
+    "notification": "2026-07-01",
+    "cfp": "https://conf.researchr.org/track/ase-2026/ase-2026-nier",
+    "venue": {
+      "city": "Munich",
+      "address": "Holiday Inn Munich City Centre, Munich, Germany",
+      "lat": 48.1351,
+      "lon": 11.582,
+      "region": "Europe"
+    },
+    "dates": "October 12-16, 2026"
+  },
+  {
+    "name": "41st IEEE/ACM International Conference on Automated Software Engineering",
+    "acronym": "ASE",
+    "acronymx": "ASE'26",
+    "url": "https://conf.researchr.org/home/ase-2026",
+    "track": "doctoral symposium",
+    "submission-deadline": "2026-06-30",
+    "notification": "2026-07-28",
+    "cfp": "https://conf.researchr.org/track/ase-2026/ase-2026-doctoral-symposium",
+    "venue": {
+      "city": "Munich",
+      "address": "Holiday Inn Munich City Centre, Munich, Germany",
+      "lat": 48.1351,
+      "lon": 11.582,
+      "region": "Europe"
+    },
+    "dates": "October 12-16, 2026"
+  },
+  {
+    "name": "41st IEEE/ACM International Conference on Automated Software Engineering",
+    "acronym": "ASE",
+    "acronymx": "ASE'26",
+    "url": "https://conf.researchr.org/home/ase-2026",
+    "track": "journal-first",
+    "submission-deadline": "2026-07-06",
+    "notification": "2026-07-31",
+    "cfp": "https://conf.researchr.org/track/ase-2026/ase-2026-journal-first",
+    "venue": {
+      "city": "Munich",
+      "address": "Holiday Inn Munich City Centre, Munich, Germany",
+      "lat": 48.1351,
+      "lon": 11.582,
+      "region": "Europe"
+    },
+    "dates": "October 12-16, 2026"
+  },
+  {
+    "name": "41st IEEE/ACM International Conference on Automated Software Engineering",
+    "acronym": "ASE",
+    "acronymx": "ASE'26",
+    "url": "https://conf.researchr.org/home/ase-2026",
+    "track": "SRC",
+    "submission-deadline": "2026-07-23",
+    "notification": "2026-08-21",
+    "cfp": "https://conf.researchr.org/track/ase-2026/ase-2026-student-research-competition",
     "venue": {
       "city": "Munich",
       "address": "Holiday Inn Munich City Centre, Munich, Germany",
@@ -1243,6 +1170,24 @@
     "dates": "November 15-19, 2026"
   },
   {
+    "name": "23rd Pacific Rim International Conference on Artificial Intelligence",
+    "acronym": "PRICAI",
+    "acronymx": "PRICAI'26",
+    "url": "https://pricai.org/",
+    "track": "research",
+    "submission-deadline": "2026-06-13",
+    "notification": "2026-08-15",
+    "cfp": null,
+    "venue": {
+      "city": "Guangzhou",
+      "address": "South China Normal University, Guangzhou, China",
+      "lat": 23.1291,
+      "lon": 113.2644,
+      "region": "Asia"
+    },
+    "dates": "November 17-20, 2026"
+  },
+  {
     "name": "39th Australasian Joint Conference on Artificial Intelligence",
     "acronym": "AJCAI",
     "acronymx": "AJCAI'26",
@@ -1260,24 +1205,6 @@
       "region": "Australasia"
     },
     "dates": "November 26-30, 2026"
-  },
-  {
-    "name": "23rd Pacific Rim International Conference on Artificial Intelligence",
-    "acronym": "PRICAI",
-    "acronymx": "PRICAI'26",
-    "url": "https://pricai.org/",
-    "track": "research",
-    "submission-deadline": "2026-06-13",
-    "notification": "2026-08-15",
-    "cfp": null,
-    "venue": {
-      "city": "Guangzhou",
-      "address": "South China Normal University, Guangzhou, China",
-      "lat": 23.1291,
-      "lon": 113.2644,
-      "region": "Asia"
-    },
-    "dates": "November 17-20, 2026"
   },
   {
     "name": "33rd Asia-Pacific Software Engineering Conference",
@@ -1335,24 +1262,6 @@
     "dates": "November 2026"
   },
   {
-    "name": "Thirty-ninth Conference on Neural Information Processing Systems",
-    "acronym": "NeurIPS",
-    "acronymx": "NeurIPS'26",
-    "url": "https://neurips.cc/Conferences/2026",
-    "track": "research",
-    "submission-deadline": "2026-05-06",
-    "notification": "2026-09-24",
-    "cfp": null,
-    "venue": {
-      "city": "Vancouver",
-      "address": "Vancouver Convention Center, Vancouver, BC, Canada",
-      "lat": 49.2888,
-      "lon": -123.1111,
-      "region": "North America"
-    },
-    "dates": "December 6-12, 2026"
-  },
-  {
     "name": "43rd IEEE/CVF Conference on Computer Vision and Pattern Recognition",
     "acronym": "CVPR",
     "acronymx": "CVPR'26",
@@ -1395,8 +1304,7 @@
     "url": "https://conf.researchr.org/home/icse-2027",
     "track": "research",
     "submission-deadline": "2026-06-30",
-    "estimated": true,
-    "notification": "2026-10-10",
+    "notification": "2026-10-20",
     "cfp": "https://conf.researchr.org/track/icse-2027/icse-2027-research-track",
     "venue": {
       "city": "Dublin",
@@ -1408,13 +1316,103 @@
     "dates": "April 25 - May 1, 2027"
   },
   {
+    "name": "49th International Conference on Software Engineering",
+    "acronym": "ICSE",
+    "acronymx": "ICSE'27",
+    "url": "https://conf.researchr.org/home/icse-2027",
+    "track": "SEIP",
+    "submission-deadline": "2026-10-23",
+    "notification": "2026-12-11",
+    "cfp": null,
+    "venue": {
+      "city": "Dublin",
+      "address": "Convention Centre Dublin, Dublin, Ireland",
+      "lat": 53.3498,
+      "lon": -6.2603,
+      "region": "Europe"
+    },
+    "dates": "April 25 - May 1, 2027"
+  },
+  {
+    "name": "49th International Conference on Software Engineering",
+    "acronym": "ICSE",
+    "acronymx": "ICSE'27",
+    "url": "https://conf.researchr.org/home/icse-2027",
+    "track": "NIER",
+    "submission-deadline": "2026-10-23",
+    "notification": "2026-12-18",
+    "cfp": null,
+    "venue": {
+      "city": "Dublin",
+      "address": "Convention Centre Dublin, Dublin, Ireland",
+      "lat": 53.3498,
+      "lon": -6.2603,
+      "region": "Europe"
+    },
+    "dates": "April 25 - May 1, 2027"
+  },
+  {
+    "name": "49th International Conference on Software Engineering",
+    "acronym": "ICSE",
+    "acronymx": "ICSE'27",
+    "url": "https://conf.researchr.org/home/icse-2027",
+    "track": "SRC",
+    "submission-deadline": "2026-11-13",
+    "notification": "2026-12-18",
+    "cfp": null,
+    "venue": {
+      "city": "Dublin",
+      "address": "Convention Centre Dublin, Dublin, Ireland",
+      "lat": 53.3498,
+      "lon": -6.2603,
+      "region": "Europe"
+    },
+    "dates": "April 25 - May 1, 2027"
+  },
+  {
+    "name": "48th IEEE Symposium on Security and Privacy",
+    "acronym": "S&P",
+    "acronymx": "S&P'27",
+    "url": "https://sp2027.ieee-security.org/",
+    "track": "research (cycle 1)",
+    "submission-deadline": "2026-06-11",
+    "notification": "2026-09-11",
+    "cfp": "https://sp2027.ieee-security.org/cfpapers.html",
+    "venue": {
+      "city": "Montreal",
+      "address": "Montreal, Quebec, Canada",
+      "lat": 45.5017,
+      "lon": -73.5673,
+      "region": "North America"
+    },
+    "dates": "May 2027"
+  },
+  {
+    "name": "48th IEEE Symposium on Security and Privacy",
+    "acronym": "S&P",
+    "acronymx": "S&P'27",
+    "url": "https://sp2027.ieee-security.org/",
+    "track": "research (cycle 2)",
+    "submission-deadline": "2026-11-17",
+    "notification": "2027-03-05",
+    "cfp": "https://sp2027.ieee-security.org/cfpapers.html",
+    "venue": {
+      "city": "Montreal",
+      "address": "Montreal, Quebec, Canada",
+      "lat": 45.5017,
+      "lon": -73.5673,
+      "region": "North America"
+    },
+    "dates": "May 2027"
+  },
+  {
     "name": "22nd ACM ASIA Conference on Computer and Communications Security",
     "acronym": "ASIACCS",
     "acronymx": "ASIACCS'27",
-    "url": null,
+    "url": "https://asiaccs2027.cityu.edu.mo/",
     "track": "research (cycle 1)",
-    "submission-deadline": "2026-08-25",
-    "notification": "2026-11-19",
+    "submission-deadline": "2026-08-21",
+    "notification": "2026-11-13",
     "cfp": null,
     "venue": {
       "city": "Macau",
@@ -1429,10 +1427,10 @@
     "name": "22nd ACM ASIA Conference on Computer and Communications Security",
     "acronym": "ASIACCS",
     "acronymx": "ASIACCS'27",
-    "url": null,
+    "url": "https://asiaccs2027.cityu.edu.mo/",
     "track": "research (cycle 2)",
-    "submission-deadline": "2026-12-12",
-    "notification": "2027-03-10",
+    "submission-deadline": "2026-12-11",
+    "notification": "2027-03-31",
     "cfp": null,
     "venue": {
       "city": "Macau",
@@ -1447,11 +1445,11 @@
     "name": "35th ACM International Conference on the Foundations of Software Engineering",
     "acronym": "FSE",
     "acronymx": "FSE'27",
-    "url": null,
+    "url": "https://conf.researchr.org/home/fse-2027",
     "track": "research",
-    "submission-deadline": "2026-10-09",
-    "notification": "2027-01-15",
-    "cfp": null,
+    "submission-deadline": "2026-10-02",
+    "notification": "2027-01-22",
+    "cfp": "https://conf.researchr.org/track/fse-2027/fse-2027-papers",
     "venue": {
       "city": "Shenzhen",
       "address": "Shenzhen, China",
@@ -1610,41 +1608,5 @@
       "region": "other"
     },
     "dates": "October 2027"
-  },
-  {
-    "name": "3rd ACM International Conference on AI-powered Software",
-    "acronym": "AIware",
-    "acronymx": "AIware'26",
-    "url": "https://2026.aiwareconf.org/",
-    "track": "benchmark & dataset",
-    "submission-deadline": "2026-04-02",
-    "notification": "2026-04-20",
-    "cfp": "https://2026.aiwareconf.org/track/aiware-2026-benchmark---dataset-track",
-    "venue": {
-      "city": "Montreal",
-      "address": "Montreal, Canada",
-      "lat": 45.5017,
-      "lon": -73.5673,
-      "region": "North America"
-    },
-    "dates": "July 6-7, 2026"
-  },
-  {
-    "name": "3rd ACM International Conference on AI-powered Software",
-    "acronym": "AIware",
-    "acronymx": "AIware'26",
-    "url": "https://2026.aiwareconf.org/",
-    "track": "arXiv (round 2)",
-    "submission-deadline": "2026-05-15",
-    "notification": "2026-06-01",
-    "cfp": "https://2026.aiwareconf.org/track/aiware-2026-arxiv-track",
-    "venue": {
-      "city": "Montreal",
-      "address": "Montreal, Canada",
-      "lat": 45.5017,
-      "lon": -73.5673,
-      "region": "North America"
-    },
-    "dates": "July 6-7, 2026"
   }
 ]
