@@ -531,13 +531,13 @@
     "notification": "2026-09-24",
     "cfp": null,
     "venue": {
-      "city": "Vancouver",
-      "address": "Vancouver Convention Center, Vancouver, BC, Canada",
-      "lat": 49.2888,
-      "lon": -123.1111,
-      "region": "North America"
+      "city": "Sydney",
+      "address": "Sydney, Australia (main venue; satellites in Atlanta, USA and Paris, France)",
+      "lat": -33.8688,
+      "lon": 151.2093,
+      "region": "Australasia"
     },
-    "dates": "December 6-12, 2026"
+    "dates": "December 6-13, 2026"
   },
   {
     "name": "35th USENIX Security Symposium",
