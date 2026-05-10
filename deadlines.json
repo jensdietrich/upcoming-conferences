@@ -1608,5 +1608,23 @@
       "region": "other"
     },
     "dates": "October 2027"
+  },
+  {
+    "name": "42nd Annual Computer Security Applications Conference",
+    "acronym": "ACSAC",
+    "acronymx": "ACSAC'26",
+    "url": "https://www.acsac.org/2026/",
+    "track": "research",
+    "submission-deadline": "2026-05-26",
+    "notification": "2026-09-08",
+    "cfp": "https://www.acsac.org/2026/submissions/papers/",
+    "venue": {
+      "city": "Los Angeles",
+      "address": "Hilton Los Angeles/Universal City, 555 Universal Hollywood Dr, Universal City, CA 91608, USA",
+      "lat": 34.1381,
+      "lon": -118.3534,
+      "region": "North America"
+    },
+    "dates": "December 7-11, 2026"
   }
 ]

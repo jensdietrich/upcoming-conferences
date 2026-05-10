@@ -344,6 +344,22 @@
     "workshop": false
   },
   {
+    "name": "Annual Computer Security Applications Conference",
+    "acronym": "ACSAC",
+    "url": "https://www.acsac.org/",
+    "see-also": [
+      "https://dblp.org/db/conf/acsac/index.html"
+    ],
+    "core-rank": {
+      "rank": "A",
+      "system": "CORE2023",
+      "url": "https://portal.core.edu.au/conf-ranks/117/"
+    },
+    "field": "security",
+    "sponsor": "IEEE",
+    "workshop": false
+  },
+  {
     "name": "Conference on Neural Information Processing Systems",
     "acronym": "NeurIPS",
     "url": "https://nips.cc/",
