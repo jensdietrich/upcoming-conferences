@@ -331,6 +331,7 @@
   <button class="tab active" data-tab="deadlines">Deadlines</button>
   <button class="tab" data-tab="map">Map</button>
   <button class="tab" data-tab="contribute">How to Contribute</button>
+  <button class="tab" data-tab="related">Related</button>
 </nav>
 
 <!-- MAP TAB -->
@@ -540,9 +541,50 @@
   </div>
 </div>
 
-<footer style="text-align:center;padding:16px;font-size:12px;color:var(--text-muted);border-top:1px solid var(--border);margin-top:24px">
-  Inspired by <a href="https://taoxie.cs.illinois.edu/seconferences.htm" target="_blank" rel="noopener">Tao Xie's list of software engineering conferences</a>
-</footer>
+<!-- RELATED TAB -->
+<div id="related-tab" class="tab-content">
+  <div style="max-width:800px;margin:0 auto;padding:24px 20px;line-height:1.7">
+    <h2 style="font-size:18px;font-weight:600;margin-bottom:20px">Related Resources</h2>
+
+    <div style="display:flex;flex-direction:column;gap:20px">
+
+      <div style="padding:16px;background:var(--bg-secondary);border:1px solid var(--border);border-radius:8px">
+        <div style="font-size:15px;font-weight:600;margin-bottom:6px">
+          <a href="https://sec-deadlines.github.io/" target="_blank" rel="noopener">Security and Privacy Conference Deadlines</a>
+        </div>
+        <p style="color:var(--text-muted);font-size:13px">
+          A community-maintained tracker of upcoming submission deadlines for security and privacy conferences.
+          Lists deadlines in a clean countdown format and is actively updated by the community via pull requests on
+          <a href="https://github.com/sec-deadlines/sec-deadlines.github.io" target="_blank" rel="noopener">GitHub</a>.
+        </p>
+      </div>
+
+      <div style="padding:16px;background:var(--bg-secondary);border:1px solid var(--border);border-radius:8px">
+        <div style="font-size:15px;font-weight:600;margin-bottom:6px">
+          <a href="https://aideadlin.es/" target="_blank" rel="noopener">AI Conference Deadlines</a>
+        </div>
+        <p style="color:var(--text-muted);font-size:13px">
+          A countdown-style deadline tracker focused on artificial intelligence and machine learning conferences,
+          covering major venues such as NeurIPS, ICML, ICLR, CVPR, and AAAI.
+          Maintained by the community on GitHub.
+        </p>
+      </div>
+
+      <div style="padding:16px;background:var(--bg-secondary);border:1px solid var(--border);border-radius:8px">
+        <div style="font-size:15px;font-weight:600;margin-bottom:6px">
+          <a href="https://taoxie.cs.illinois.edu/seconferences.htm" target="_blank" rel="noopener">Tao Xie's List of Software Engineering Conferences</a>
+        </div>
+        <p style="color:var(--text-muted);font-size:13px">
+          A curated list of software engineering conferences with ranking and deadline information,
+          maintained for many years by <a href="https://taoxie.cs.illinois.edu/" target="_blank" rel="noopener">Tao Xie</a>
+          at the University of Illinois Urbana-Champaign. This website was directly inspired by that list.
+          Note: the list is no longer actively maintained.
+        </p>
+      </div>
+
+    </div>
+  </div>
+</div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
