@@ -1626,5 +1626,24 @@
       "region": "North America"
     },
     "dates": "December 7-11, 2026"
+  },
+  {
+    "name": "The 34th IEEE International Conference on Software Analysis, Evolution and Reengineering",
+    "acronym": "SANER",
+    "acronymx": "SANER 2027",
+    "url": "https://conf.researchr.org/home/saner-2027",
+    "track": "research",
+    "submission-deadline": "2026-09-21",
+    "estimated": false,
+    "notification": "2026-12-01",
+    "cfp": "https://conf.researchr.org/track/saner-2027/saner-2027-papers",
+    "venue": {
+      "city": "Richmond, Virginia",
+      "address": "Engineering Research Building (ERB), Virginia Commonwealth University",
+      "lat": 537.544730192229245,
+      "lon": -77.4488556219301,
+      "region": "America"
+    },
+    "dates": "March 9 - March 12, 2027"
   }
 ]
