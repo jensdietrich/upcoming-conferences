@@ -556,6 +556,19 @@
     "workshop": false
   },
   {
+    "name": "International Conference on Software Analysis, Evolution and Reengineering",
+    "acronym": "SANER",
+    "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=187687",
+    "see-also": [],
+    "core-rank": {
+      "rank": "A*",
+      "system": "ICORE2026",
+      "url": "https://portal.core.edu.au/conf-ranks/2280/"
+    },
+    "field": "software engineering",
+    "sponsor": "IEEE"
+  },
+  {
     "name": "ACM International Conference on AI-powered Software",
     "acronym": "AIware",
     "url": null,
