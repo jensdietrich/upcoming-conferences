@@ -1,0 +1,47 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+
+      "WebFetch(domain:se-deadlines.github.io)",
+      "WebFetch(domain:sec-deadlines.github.io)",
+      "WebFetch(domain:conf.researchr.org)",
+
+      "WebFetch(domain:aaai.org)",
+      "WebFetch(domain:*.aaai.org)",
+      "WebFetch(domain:msrconf.org)",
+      "WebFetch(domain:*.msrconf.org)",
+      "WebFetch(domain:sigplan.org)",
+      "WebFetch(domain:*.sigplan.org)",
+      "WebFetch(domain:ieee-security.org)",
+      "WebFetch(domain:*.ieee-security.org)",
+      "WebFetch(domain:usenix.org)",
+      "WebFetch(domain:*.usenix.org)",
+      "WebFetch(domain:sigsac.org)",
+      "WebFetch(domain:*.sigsac.org)",
+      "WebFetch(domain:esec-fse.org)",
+      "WebFetch(domain:*.esec-fse.org)",
+      "WebFetch(domain:acsac.org)",
+      "WebFetch(domain:*.acsac.org)",
+      "WebFetch(domain:thecvf.com)",
+      "WebFetch(domain:*.thecvf.com)",
+      "WebFetch(domain:aiwareconf.org)",
+      "WebFetch(domain:*.aiwareconf.org)",
+      "WebFetch(domain:ajcai26.org)",
+      "WebFetch(domain:icfpconference.org)",
+      "WebFetch(domain:xaiworldconference.com)",
+      "WebFetch(domain:neurips.cc)",
+      "WebFetch(domain:icml.cc)",
+      "WebFetch(domain:iclr.cc)",
+      "WebFetch(domain:asiaccs.info)",
+      "WebFetch(domain:raid2026.org)",
+
+      "WebFetch(domain:portal.core.edu.au)",
+      "WebFetch(domain:dblp.org)",
+      "WebFetch(domain:easychair.org)",
+      "WebFetch(domain:jensdietrich.github.io)",
+
+      "Bash(curl -s -o /dev/null -w *)"
+    ]
+  }
+}
